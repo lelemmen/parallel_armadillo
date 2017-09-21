@@ -1,0 +1,11 @@
+Number of processors available: 8
+Maximum number of threads: 8
+Diagonalizing symmetric matrices
+--------------------------------
+dim: 100	 diagonalization time: 0.003014 seconds
+dim: 250	 diagonalization time: 0.016875 seconds
+dim: 500	 diagonalization time: 0.07898 seconds
+dim: 1000	 diagonalization time: 0.490536 seconds
+dim: 2500	 diagonalization time: 6.30671 seconds
+dim: 5000	 diagonalization time: 46.8545 seconds
+dim: 10000	 diagonalization time: 433.815 seconds
