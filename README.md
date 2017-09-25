@@ -85,3 +85,11 @@ Using the Accelerate (macOS) framework, we get the following timings:
     2500 : 1.53004
     5000 : 12.3652
     10000 : 158.362
+
+
+### Sparse matrices & Accelerate and `-O2`
+
+    1000 : 0.177537
+    2500 : 1.2949
+    5000 : 8.53172
+    10000 : 85.7126
